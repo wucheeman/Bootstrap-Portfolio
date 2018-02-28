@@ -9,6 +9,7 @@ bin-release/
 .settings/
 assignment/*
 trial.html
+temp_bak
 
 # Executables
 *.swf
