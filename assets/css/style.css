@@ -18,10 +18,12 @@ footer {
 
 h1 {
   background: var(--teal);
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
 h2 {
     color: var(--teal);
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
 .main_background {
