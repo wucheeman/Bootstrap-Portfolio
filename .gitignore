@@ -10,6 +10,8 @@ bin-release/
 assignment/*
 trial.html
 temp_bak
+will_example.html
+assets/css/trial_style.css
 
 # Executables
 *.swf
