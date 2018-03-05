@@ -1,0 +1,37 @@
+BOOTSTRAP PORTFOLIO TEST CASES
+
+Index
+=====
+[x] No remaining todos in file, except production text
+[?] Nothing breaks when the page is resized horizontally or vertically
+[x] Page looks very similar to homework assignment
+[x] Links are live to other pages and to Github, LInked In,and Stack Overflow
+[x] HTML passes validation
+	(two warnings, no errors)
+
+Contact
+=======
+[x] No remaining todos in file
+[x] Contact sends email with info entered in form
+[?] Nothing breaks when the page is resized horizontally or vertically
+[-] Footer is sticky on Contact page
+	(Footer not sticky; out of time to correct for bonus)
+[x] Page looks very similar to homework assignment
+[x] Links are live to other pages and to Github, LInked In,and Stack Overflow
+[x] HTML passes validation
+	(two warnings, no errors)
+
+Portfolio
+=========
+[x] No remaining todos in file
+[?] Nothing breaks when the page is resized horizontally or vertically
+[x] Page looks very similar to homework assignment
+[x] Links are live to other pages and to Github, LInked In,and Stack Overflow
+[x] HTML passes validation
+	(two warnings, no errors)
+	
+Styles
+======
+[x] No remaining todos in file
+[x] CSS passes validation
+	(Throws 3 errors, all of which complain about a rule using Bootstrap-defined color and correctly producing that color on the page.)
